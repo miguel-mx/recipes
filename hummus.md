@@ -5,3 +5,5 @@
 *Aceite de oliva
 *tahini
 *comino
+*Sal 
+*Agua Fria
